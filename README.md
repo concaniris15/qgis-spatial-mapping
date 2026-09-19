@@ -5,9 +5,8 @@ A spatial geographic data visualization and vector layer mapping project created
 ---
 
 ## 🗺️ Project Source & App View
-I-click ang link sa ibaba para ma-download at mabuksan ang file sa **QGIS App**:
 
-- 📂 **Open in QGIS App:** [Download & Open Project File](./qgis-spatial-mapping.qgz)
+- 📂 **Open in QGIS App:** [Download & Open Project File](./tabunan.qgz)
 
 ---
 
