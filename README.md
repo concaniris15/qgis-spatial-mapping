@@ -5,9 +5,9 @@ A spatial geographic data visualization and vector layer mapping project created
 ---
 
 ## 🗺️ Project Source & App View
-I-click ang link sa ibaba para ma-view o ma-download ang project file na bubukas sa **QGIS App**:
+I-click ang link sa ibaba para ma-download at mabuksan ang file sa **QGIS App**:
 
-- 📂 **Open in QGIS App:** [Download & Open Project File](./qgis-spatial-mapping)
+- 📂 **Open in QGIS App:** [Download & Open Project File](./qgis-spatial-mapping.qgz)
 
 ---
 
@@ -15,4 +15,4 @@ I-click ang link sa ibaba para ma-view o ma-download ang project file na bubukas
 - 📄 **View PDF Layout:** [View QGIS_Spatial_Map.pdf](./QGIS_Spatial_Map.pdf)
 
 ### 🖼️ Map Layout Preview
-<img width="1010" height="650" alt="Screenshot 2026-09-19 110350" src="https://github.com/user-attachments/assets/50da68bb-2e0e-468f-9d44-6fc96effe84a" />
+<img width="1010" height="650" alt="Screenshot" src="https://github.com/user-attachments/assets/50da68bb-2e0e-468f-9d44-6fc96effe84a" />
