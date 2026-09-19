@@ -7,7 +7,7 @@ A spatial geographic data visualization and vector layer mapping project created
 ## 🗺️ Project Source & App View
 I-click ang link sa ibaba para ma-view o ma-download ang project file na bubukas sa **QGIS App**:
 
-- 📂 **Open in QGIS App:** [Download & Open Project File](./qgis-spatial-mapping.qgz)
+- 📂 **Open in QGIS App:** [Download & Open Project File](./qgis-spatial-mapping)
 
 ---
 
